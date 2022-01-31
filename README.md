@@ -1,2 +1,2 @@
-# Economic Indicators
-Economic indicators using Python and APIs
+# Economic indicators using Python and APIs
+#### Source: Amunategui, Manuel; Amunategui, Lucas. [The Little Book of Fundamental Indicators: Hands-On Market Analysis with Python: Find Your Market Bearings with Python, Jupyter Notebooks, and Freely Available Data](https://www.amazon.com/Little-Book-Fundamental-Indicators-Hands-ebook/dp/B07RC9KW78/ref=sr_1_1?crid=2ZFKHGL2P9OO5&keywords=little+book+of+economic+indicators&qid=1643565649&sprefix=little+book+of+economic+indicartors%2Caps%2C98&sr=8-1) 
